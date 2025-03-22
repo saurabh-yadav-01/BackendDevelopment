@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BackendDevelopment
 =======
 # Backend Development Learning Path
