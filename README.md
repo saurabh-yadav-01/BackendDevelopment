@@ -1,6 +1,5 @@
 
 # BackendDevelopment
-=======
 # Backend Development Learning Path
 
 This repository contains a structured learning path for backend development using Node.js, Express.js, and MongoDB, with React frontend integration.
